@@ -9,4 +9,4 @@
 <img src="images/siccors_paper_stone-playing.PNG" width="300" />
 
 <h2>Result</h2>
-<img src="images/siccors_paper_stone-result.PNG" width="300" />
+<img src="images/siccors_paper_stone-result.PNG" width="500" />
